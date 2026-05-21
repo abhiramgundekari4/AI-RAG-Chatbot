@@ -326,8 +326,8 @@ with st.sidebar:
             Final Year · 2025
         </div>
         <div class="builder-links">
-            <a class="builder-link" href="https://github.com/yourusername" target="_blank">GitHub ↗</a>
-            <a class="builder-link" href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn ↗</a>
+            <a class="builder-link" href="https://github.com/abhiramgundekari4" target="_blank">GitHub ↗</a>
+            <a class="builder-link" href="https://www.linkedin.com/in/abhiram-gundekari24/" target="_blank">LinkedIn ↗</a>
         </div>
     </div>
     """, unsafe_allow_html=True)
